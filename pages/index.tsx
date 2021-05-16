@@ -1,14 +1,20 @@
 import Head from "next/head";
+// @ts-ignore
+import SmokeElement from "smoke-effect-react";
 
 const home = () => {
   return (
-    <div>
+    <>
       <Head>
-        <title>Johnny Bell</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>fourtwenty.code</title>
       </Head>
-      <div>New</div>
-    </div>
+        <SmokeElement
+            src="/logo.png"
+            opacity="1"
+            smokeSrc="/Smoke-Element.png"
+            smokeOpacity="0.3"
+        />
+    </>
   );
 };
 

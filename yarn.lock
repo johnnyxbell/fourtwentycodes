@@ -5081,6 +5081,13 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
+smoke-effect-react@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/smoke-effect-react/-/smoke-effect-react-1.0.5.tgz#be2956f8c587221a26290ccf8ec1b841bcfed3e2"
+  integrity sha512-d2Y/fLi6LBNdcVrZAg/42n7t2uh9++mKlUBwEQB8YifFDIzxVh0nnrKk3/sNFP1iYp/SXJgCQN/dfSEjJxUdBg==
+  dependencies:
+    three "^0.106.2"
+
 snapdragon-node@^2.0.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/snapdragon-node/-/snapdragon-node-2.1.1.tgz#6c175f86ff14bdb0724563e8f3c1b021a286853b"
@@ -5443,6 +5450,11 @@ terser@^4.1.2:
     commander "^2.20.0"
     source-map "~0.6.1"
     source-map-support "~0.5.12"
+
+three@^0.106.2:
+  version "0.106.2"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.106.2.tgz#6752d304c470e4df230944ecd45325e7bf79e1f8"
+  integrity sha512-4Tlx43uoxnIaZFW2Bzkd1rXsatvVHEWAZJy8LuE+s6Q8c66ogNnhfq1bHiBKPAnXP230LD11H/ScIZc2LZMviA==
 
 through2@^2.0.0:
   version "2.0.5"
