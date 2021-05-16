@@ -6,7 +6,7 @@ const home = () => {
   return (
     <>
       <Head>
-        <title>fourtwenty.code</title>
+        <title>fourtwenty.codes</title>
       </Head>
         <SmokeElement
             src="/logo.png"
